@@ -1,0 +1,10 @@
+button {
+    font-size: large;
+    border: thick;
+    padding: 1em
+}
+
+input[type=text] {
+    padding: 1em;
+    font-size: large
+}
